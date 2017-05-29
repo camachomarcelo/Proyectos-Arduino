@@ -1,0 +1,15 @@
+Modelo: Arduino UNO R3
+
+- Voltaje de funcionamiento: 5V
+- Alimentación (recomendada): 7-12V
+- Voltaje máximo de entrada(no recomendado): 20V
+- Microcontrolador: ATmega328
+- Pines digitales I/O: 14 (de los cuales 6 dan salida PWM)
+- Pines de entrada analógica: 6
+- Corriente DC por I/O Pin: 40 mA
+- Corriente DC para el pin 3.3V: 50 mA
+- Memoria Flash: 32 KB (ATmega328) 0.5 KB usados por el bootloader
+- SRAM:	2 KB (ATmega328)
+- EEPROM: 1 KB (ATmega328)
+- Velocidad de reloj: 16 MHz
+

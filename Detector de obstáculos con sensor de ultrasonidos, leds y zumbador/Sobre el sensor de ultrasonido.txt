@@ -1,0 +1,20 @@
+Modelo: HC-SR04
+
+Especificaciones
+
+- Voltaje de alimentación: 5V DC
+- Corriente en reposo: <2mA
+- Angulo de cobertura: <15°
+- Rango de distancia: 2cm – 500 cm
+- Resolución: 1 cm
+- Frecuencia ultrasónica: 40k Hz
+
+Capaz de detectar objetos de entre 2cm y 4 metros con error de 3mm.
+
+- Alimentacion 5v. (VCC)
+
+- Entrada de pulsos Trigger. (TRIG)
+
+- Salida de pulsos Echo. (ECHO)
+
+- Tierra 0v. gnd
